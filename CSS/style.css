@@ -1,17 +1,31 @@
-.logotipo {
-    color: blueviolet;
+:root {
+    --cor-azul: green;
+    --tamanho-fonte: 10px;
 }
-.Teste1 {
-    color: blue 
-}
-.Teste2 {
-    color: yellow
 
-}
-.Teste3 {
-    color: green
-}
-.Teste4{
+* {}
+
+
+/* Seletor class */
+/* .logotipo {
+    color:blueviolet;
+} */
+
+/* Seletor ID */
+/* #logo {
+    color: var(--cor-azul);
+} */
+
+/* Seletor Elemento */
+/* div {
     color: blue;
+} */
+
+/* p.rt1 {
+    font-size: 5px;
 }
 
+a[data-impacta="home"] {
+    font-size: 10px;
+    color: red;
+} */
