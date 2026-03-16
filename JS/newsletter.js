@@ -18,6 +18,12 @@ dadosUser.addEventListener("keypress", function(e) {
 
 
 
+
+
+
+
+
+
 // var primeiroNome = "Otavio"; // String
 // var ultimoNome = "Silva"; // String
 // var idade = 52; // number
